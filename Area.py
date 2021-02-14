@@ -13,12 +13,11 @@ r = int(input("enter the radius of a circle:"))
 print("Circle area = ", ciclearea(r))
 print("Circle Perimeter =", circleperimeter(r))
 
-"""r = int(input("enter radius of Sphere:"))
+r = int(input("enter radius of Sphere:"))
 print("Circle area = ", Spherearea(r))
-print("Circle Perimeter =", Sphereperimeter(r)"""
+print("Circle Perimeter =", Sphereperimeter(r)
 
-"""a=int(input("Enter a side length :"))
+a=int(input("Enter a side length :"))
 print("Cube Area= ",cubearea(a))
 h=int(input("enter l:"))
 print("Cube Perimeter=",cubeperimeter(l,b,h))
-"""
